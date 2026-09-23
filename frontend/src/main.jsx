@@ -31,7 +31,7 @@ createRoot(document.getElementById("root")).render(
   // StrictMode wraps our App component.
   // It helps detect potential problems during development.
   <StrictMode>
-    // Render the App component. // This displays everything returned by
+   
     App.jsx.
     <App />
     // Close StrictMode.
