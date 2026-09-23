@@ -32,7 +32,7 @@ createRoot(document.getElementById("root")).render(
   // It helps detect potential problems during development.
   <StrictMode>
    
-    App.jsx.
+   
     <App />
     // Close StrictMode.
   </StrictMode>,
